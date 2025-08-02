@@ -26,7 +26,7 @@ Screen 1: Welcome & Onboarding
 Screen 2: The Home Dashboard
  * Visuals: A vibrant, intuitive dashboard.
  * Key Elements:
-   * Top-Right: Anitha's profile icon with her EcoCoin balance (e.g., "🪙 50 EcoCoins").
+   * Top-Right: Anitha's profile icon with her EcoCoin balance (e.g., " 50 EcoCoins").
    * Main Banner: "Hi Anitha, what would you like to do today?"
    * Three Large, Clear Buttons:
      * List an Item (For Swapping/Donating)
@@ -38,7 +38,7 @@ Screen 2: The Home Dashboard
 3. Prototype Feature Flow
 Let's walk through how Anitha uses each core feature.
 Flow 1: The Hyperlocal Exchange & AI "Upcycle Genius" (The Saree)
- * Action: Anitha has the old cotton saree. She doesn't know what to do with it. She taps the 📸 Upcycle Genius button.
+ * Action: Anitha has the old cotton saree. She doesn't know what to do with it. She taps the  Upcycle Genius button.
  * Screen 3: Upcycle Genius
    * The app opens her camera. She takes a picture of the saree.
    * The AI processes the image. A loading screen says, "Analyzing... Unlocking potential!"
@@ -54,7 +54,7 @@ Flow 1: The Hyperlocal Exchange & AI "Upcycle Genius" (The Saree)
    * She posts it. Someone from a local crafts group claims it within an hour and arranges a pickup.
  * Reward: Once the swap is complete, Anitha receives a notification: "🎉 Congratulations! You've earned 25 EcoCoins for keeping a resource in circulation!"
 Flow 2: Aakri Kada (ആക്രിക്കട) Integration (Newspapers & Bottles)
- * Action: Anitha has a pile of sorted newspapers and glass bottles. On the home screen, she taps 🚚 Schedule Pickup.
+ * Action: Anitha has a pile of sorted newspapers and glass bottles. On the home screen, she taps  Schedule Pickup.
  * Screen 5: Schedule Pickup
    * Step 1: Select Waste Type. She taps on "Paper" and "Glass." The app shows the approximate value per kg based on local rates.
    * Step 2: Estimate Quantity. She chooses "Approx. 5-10 kg."
@@ -85,7 +85,8 @@ Flow 3: The Eco-Marketplace & EcoCoin Economy
  * Service Fee (B2B): A nominal service fee (e.g., ₹5-₹10) per pickup, charged to the ആക്രിക്കട owner for the verified, pre-sorted lead. Alternatively, a monthly subscription model for them.
  * Platform as a Service (PaaS): A subscription fee for Haritha Karma Sena or Colleges to use the platform's backend for managing their community, sending targeted notifications, and tracking impact data.
  * Donations: The optional donation feature to support the platform's operations and fund specific community green initiatives.
-Conclusion for the Judges
-"Project EcoSwap is more than just an app; it's a socio-economic engine for a circular Kerala. By connecting households, recyclers, and community groups through a single, rewarding platform, we are not just managing waste—we are creating value, empowering local economies, and building a culture of sustainability from the ground up. Our prototype demonstrates a viable, scalable, and user-centric solution to a pressing local problem. 
+Conclusion for the Judges. 
+
+Project EcoSwap is more than just an app; it's a socio-economic engine for a circular Kerala. By connecting households, recyclers, and community groups through a single, rewarding platform, we are not just managing waste—we are creating value, empowering local economies, and building a culture of sustainability from the ground up. Our prototype demonstrates a viable, scalable, and user-centric solution to a pressing local problem. 
 
 Thank you.
