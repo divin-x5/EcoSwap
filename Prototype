@@ -26,7 +26,7 @@ Screen 1: Welcome & Onboarding
 Screen 2: The Home Dashboard
  * Visuals: A vibrant, intuitive dashboard.
  * Key Elements:
-   * Top-Right: Anitha's profile icon with her EcoCoin balance (e.g., "🪙 50 EcoCoins").
+   * Top-Right: Anitha's profile icon with her EcoCoin balance (e.g., "50 EcoCoins").
    * Main Banner: "Hi Anitha, what would you like to do today?"
    * Three Large, Clear Buttons:
      * List an Item (For Swapping/Donating)
@@ -38,7 +38,7 @@ Screen 2: The Home Dashboard
 3. Prototype Feature Flow
 Let's walk through how Anitha uses each core feature.
 Flow 1: The Hyperlocal Exchange & AI "Upcycle Genius" (The Saree)
- * Action: Anitha has the old cotton saree. She doesn't know what to do with it. She taps the 📸 Upcycle Genius button.
+ * Action: Anitha has the old cotton saree. She doesn't know what to do with it. She taps the  Upcycle Genius button.
  * Screen 3: Upcycle Genius
    * The app opens her camera. She takes a picture of the saree.
    * The AI processes the image. A loading screen says, "Analyzing... Unlocking potential!"
@@ -52,9 +52,9 @@ Flow 1: The Hyperlocal Exchange & AI "Upcycle Genius" (The Saree)
    * Anitha chooses: "Give Away for Free."
    * She adds a short description: "Soft cotton saree, good for upcycling projects."
    * She posts it. Someone from a local crafts group claims it within an hour and arranges a pickup.
- * Reward: Once the swap is complete, Anitha receives a notification: "🎉 Congratulations! You've earned 25 EcoCoins for keeping a resource in circulation!"
+ * Reward: Once the swap is complete, Anitha receives a notification: " Congratulations! You've earned 25 EcoCoins for keeping a resource in circulation!"
 Flow 2: Aakri Kada (ആക്രിക്കട) Integration (Newspapers & Bottles)
- * Action: Anitha has a pile of sorted newspapers and glass bottles. On the home screen, she taps 🚚 Schedule Pickup.
+ * Action: Anitha has a pile of sorted newspapers and glass bottles. On the home screen, she taps Schedule Pickup.
  * Screen 5: Schedule Pickup
    * Step 1: Select Waste Type. She taps on "Paper" and "Glass." The app shows the approximate value per kg based on local rates.
    * Step 2: Estimate Quantity. She chooses "Approx. 5-10 kg."
